@@ -1,4 +1,4 @@
-# minitalk Projesi Anlatımı
+# Minitalk Projesi Anlatımı
 
 Bu proje, iki ayrı süreç arasında sinyaller kullanarak iletişim kurmayı amaçlar. Bu projede, bir istemci (client) süreç, bir sunucu (server) süreçle metin iletişimi sağlar.
 
@@ -37,7 +37,7 @@ Bu proje, iki ayrı süreç arasında sinyaller kullanarak iletişim kurmayı am
 6. Ardından istemci programını başlatın (farklı bir terminal penceresinde):
 
     ```bash
-    ./client PID "Hello, world!"
+    ./client PID "Merhaba Burak!"
     ```
 
     `PID` yerine sunucu programının PID'sini ve mesaj olarak iletilmek istenen metni yazın.
